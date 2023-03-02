@@ -1,0 +1,8 @@
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\bin\Debug\Random-number-guessing-game.exe.config
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\bin\Debug\Random-number-guessing-game.exe
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\bin\Debug\Random-number-guessing-game.pdb
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\obj\Debug\Random-number-guessing-game.csproj.AssemblyReference.cache
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\obj\Debug\Random-number-guessing-game.csproj.SuggestedBindingRedirects.cache
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\obj\Debug\Random-number-guessing-game.csproj.CoreCompileInputs.cache
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\obj\Debug\Random-number-guessing-game.exe
+D:\Random-number-guessing-game\Random-number-guessing-game\Random-number-guessing-game\obj\Debug\Random-number-guessing-game.pdb
